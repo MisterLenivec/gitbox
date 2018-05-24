@@ -1,4 +1,4 @@
 # little-simpe-apps
 
-Rep for little and very simple apps.
-Of courde just 4 ptacties.
+Rep for a little and very simple apps.
+Of course just 4 ptacties.
